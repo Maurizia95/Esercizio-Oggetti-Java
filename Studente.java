@@ -6,7 +6,11 @@ public class Studente {
     String matricola;
 
     
+    void Studia(){
+        System.out.println("Lo studente studia");
 
+
+    }
 
 
 
